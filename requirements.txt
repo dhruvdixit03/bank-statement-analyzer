@@ -1,0 +1,10 @@
+streamlit
+pandas
+langchain_ollama
+llama_parse
+faker
+reportlab
+matplotlib
+streamlit_chat
+
+
